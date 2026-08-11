@@ -1,6 +1,6 @@
 # Application Management and Protection
 
-**Certification:** MD-102: Endpoint Administrator  ·  **Completed:** 2026-08-08
+**Certification:** MD-102: Endpoint Administrator  ·  **Completed:** 2026-08-11
 
 Deploy and protect apps. Deploy a Microsoft Store app and Microsoft 365 Apps, package and deploy a Win32 line-of-business app using the IntuneWinAppUtil tool with detection rules, and configure App Protection Policies (MAM) to protect corporate data on both managed and unmanaged (BYOD) devices. Commit your app deployment configuration, Win32 packaging evidence, and app protection policy.
 
