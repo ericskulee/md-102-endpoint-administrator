@@ -1,6 +1,6 @@
 # Endpoint Security, Automation and Reporting
 
-**Certification:** MD-102: Endpoint Administrator  ·  **Completed:** 2026-08-09
+**Certification:** MD-102: Endpoint Administrator  ·  **Completed:** 2026-08-11
 
 Secure and automate at scale. Configure endpoint security policies and a security baseline, integrate Microsoft Defender for Endpoint with Intune, and — new to the Version B exam — automate and report using PowerShell with Microsoft Graph, deploy a remediation script, and build a monitoring/reporting view. Commit your security baseline, Defender integration, PowerShell/Graph automation, and remediation script evidence.
 
