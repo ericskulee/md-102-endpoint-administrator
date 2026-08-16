@@ -1,6 +1,6 @@
 # MD-102: Endpoint Administrator
 
-Hands-on Microsoft Intune labs mapped to the MD-102 (Version B, five-domain) exam objectives. Enroll devices, enforce compliance, deploy apps, secure endpoints with Defender, and automate with PowerShell and Microsoft Graph — auto-committed to your GitHub portfolio.
+Hands-on Microsoft Intune labs mapped to the MD-102 (Version B, five-domain) exam objectives. Enroll devices, enforce compliance, deploy apps, secure endpoints with Defender, and monitor and automate with Endpoint Analytics and Microsoft Graph — auto-committed to your GitHub portfolio. 
 
 ## Projects
 
