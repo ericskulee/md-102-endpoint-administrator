@@ -1,6 +1,6 @@
 # Windows Deployment with Autopilot
 
-**Certification:** MD-102: Endpoint Administrator  ·  **Completed:** 2026-08-06
+**Certification:** MD-102: Endpoint Administrator  ·  **Completed:** 2026-08-17
 
 Deploy Windows using modern provisioning. Configure Windows Autopilot deployment profiles across the deployment modes (user-driven, self-deploying, pre-provisioning), register a device with Autopilot using its hardware hash, create a device group for Autopilot, and configure provisioning packages as an alternative. Commit your Autopilot profile configuration, device registration, and deployment mode settings.
 
@@ -12,7 +12,7 @@ Deploy Windows using modern provisioning. Configure Windows Autopilot deployment
 
 ## What this covered
 
-- Manage and maintain devices (deployment) — 30-35% of exam
+- Manage and maintain devices — 25-30% of exam
 
 ## Evidence
 
@@ -25,6 +25,9 @@ Deploy Windows using modern provisioning. Configure Windows Autopilot deployment
 | 2.3 | Register a Device and Create a Dynamic Autopilot Group | [02-autopilot-device-dynamic-group-3.png](./screenshots/02-autopilot-device-dynamic-group-3.png) |
 | 3 | Configure Pre-Provisioning and Compare Deployment Modes | [03-preprovisioning-mode-comparison.png](./screenshots/03-preprovisioning-mode-comparison.png) |
 | 3.2 | Configure Pre-Provisioning and Compare Deployment Modes | [03-preprovisioning-mode-comparison-2.png](./screenshots/03-preprovisioning-mode-comparison-2.png) |
+| 4 | Create a Provisioning Package Alternative | [04-provisioning-package.png](./screenshots/04-provisioning-package.png) |
+| 4.2 | Create a Provisioning Package Alternative | [04-provisioning-package-2.png](./screenshots/04-provisioning-package-2.png) |
+| 4.3 | Create a Provisioning Package Alternative | [04-provisioning-package-3.png](./screenshots/04-provisioning-package-3.png) |
 
 ## Skills demonstrated
 
