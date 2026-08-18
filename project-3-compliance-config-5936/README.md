@@ -1,6 +1,8 @@
 # Compliance, Configuration and Conditional Access
 
-**Certification:** MD-102: Endpoint Administrator  ·  **Completed:** 2026-08-07
+**Certification:** MD-102: Endpoint Administrator  ·  **Completed:** 2026-08-18
+
+**Eric Kulee** · [@ericskulee](https://github.com/ericskulee)
 
 Enforce device standards. Create device compliance policies for Windows (and understand cross-platform for iOS/Android/macOS), build device configuration profiles, integrate compliance with Conditional Access so non-compliant devices are blocked, and configure Windows Update for Business with update rings. Commit your compliance policy, configuration profile, Conditional Access policy, and update ring configuration.
 
@@ -11,9 +13,16 @@ Enforce device standards. Create device compliance policies for Windows (and und
 - **Conditional Access Policy** — `md102-require-compliant` — Grant control: Require device to be marked as compliant (report-only first)
 - **Windows Update Ring** — `md102-update-rings` — Pilot and Broad rings with feature/quality update deferrals
 
+## Steps completed
+
+1. Create a Windows Device Compliance Policy
+2. Build a Device Configuration Profile
+3. Integrate Compliance with Conditional Access
+4. Configure Windows Update for Business Rings
+
 ## What this covered
 
-- Manage and maintain devices (compliance/config) — 30-35% of exam
+- Manage and maintain devices — 25-30% of exam
 
 ## Evidence
 
