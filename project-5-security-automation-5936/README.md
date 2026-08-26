@@ -1,6 +1,6 @@
 # Endpoint Security, Automation and Reporting
 
-**Certification:** MD-102: Endpoint Administrator  ·  **Completed:** 2026-08-19
+**Certification:** MD-102: Endpoint Administrator  ·  **Completed:** 2026-08-26
 
 **Eric Kulee** · [@ericskulee](https://github.com/ericskulee)
 
